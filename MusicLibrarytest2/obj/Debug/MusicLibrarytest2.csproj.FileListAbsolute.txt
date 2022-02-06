@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\bin\Debug\MusicLibrarytest2.exe.config
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\bin\Debug\MusicLibrarytest2.exe
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\bin\Debug\MusicLibrarytest2.pdb
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Form1.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Properties.Resources.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.exe
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.pdb
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Dashboard.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Favorites.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Albubumsdbs.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.Song_Library.resources
+C:\Users\Admin\source\repos\MusicLibrarytest2\MusicLibrarytest2\obj\Debug\MusicLibrarytest2.SINGER_ALBUM.resources

@@ -1,0 +1,15 @@
+F:\first semester\Visual Programming\group project\BT Music\BT Music\bin\Debug\BT Music.exe.config
+F:\first semester\Visual Programming\group project\BT Music\BT Music\bin\Debug\BT Music.exe
+F:\first semester\Visual Programming\group project\BT Music\BT Music\bin\Debug\BT Music.pdb
+F:\first semester\Visual Programming\group project\BT Music\BT Music\bin\Debug\Interop.WMPLib.dll
+F:\first semester\Visual Programming\group project\BT Music\BT Music\bin\Debug\AxInterop.WMPLib.dll
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.csproj.AssemblyReference.cache
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\Interop.WMPLib.dll
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\AxInterop.WMPLib.dll
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.csproj.ResolveComReference.cache
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT_Music.Form1.resources
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT_Music.Properties.Resources.resources
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.csproj.GenerateResource.cache
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.csproj.CoreCompileInputs.cache
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.exe
+F:\first semester\Visual Programming\group project\BT Music\BT Music\obj\Debug\BT Music.pdb
